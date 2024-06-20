@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Mario Zarco
 description: >
   This will be my introductory page
