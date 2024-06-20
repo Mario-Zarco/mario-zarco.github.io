@@ -161,6 +161,12 @@ defaults:
       seo:
         type:          WebPage
 
+  - scope:
+      type:           aboutmario.md
+    values:
+      menu:           true
+      
+
 kramdown:
   math_engine:         mathjax
   math_engine_opts:    {}
