@@ -7,4 +7,14 @@ hide_description: true
 ---
 
 # Hola! / Hello! / Kia Ora! 
-I am Mario
+
+{% comment %} 
+    I am Mario, the grandson of Juana, and the son of Begonia and Esau. 
+
+I am first-generation, POC scholar trying to become a researcher. 
+{% endcomment %}
+
+
+
+I am from Mexico, but I have been based in Tāmaki Makaurau, Aotearoa for almost 6 years.
+
