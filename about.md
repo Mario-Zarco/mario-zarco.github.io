@@ -16,7 +16,7 @@ I am first-generation, POC scholar trying to become a researcher.
 
 My name is Mario. I am the grandson of Juana, and the son of Begonia and Esau. 
 
-I am POC scholar.
+I am POC scholar who was raised in the barrio. 
 
 I am from Mexico, but I have been based in Tāmaki Makaurau, Aotearoa for almost 6 years.
 
