@@ -62,5 +62,6 @@ a[href^='http']::after {
 }
 
 .inline-block {
-  display: inline-flex;
+  display: inline-block;
+  visibility: hidden;
 }
