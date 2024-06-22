@@ -58,4 +58,6 @@
 a[href^='http']::after {
   /* Styles for external links */
   visibility: hidden;
+   content: '';
+   padding-right: 0em;
 }
