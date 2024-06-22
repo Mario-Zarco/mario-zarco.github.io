@@ -58,10 +58,8 @@
 a[href^='http']::after {
   /* Styles for external links */
   visibility: hidden;
-  display: inline-block;
 }
 
 .inline-block {
   display: inline-block;
-  visibility: hidden;
 }
