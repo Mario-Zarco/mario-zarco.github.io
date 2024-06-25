@@ -39,13 +39,13 @@ h2_ {
     padding: 0 0 2px 0;
 }
 
-h3 {
+h3_ {
     font-size: 1em;
     font-weight: bold;
     margin: 5px 0 0 0;
 }
 
-h4 {
+h4_ {
     font-size: 1em;
     font-weight: bold;
     margin: 0 0 0.25em 0;
@@ -59,7 +59,7 @@ p_{
     padding-bottom: 0%;
 }
 
-ol {
+ol_ {
     padding: 0 0 0 1.5rem;
     margin: 0;
 }
@@ -82,15 +82,15 @@ li_ {
     width: 12px;
 }
 
-a {
+a_ {
     color: #0D47A1;
 }
 
-code {
+code_ {
     color: black;
 }
 
-time {
+time_ {
     float: right;
     font-size: inherit;
     font-weight: bold;
@@ -114,3 +114,8 @@ location {
     /* width: 90px !important;
     height: 90px !important; */
   }
+
+br_{
+    display: block;
+    margin-bottom: 2em;
+}

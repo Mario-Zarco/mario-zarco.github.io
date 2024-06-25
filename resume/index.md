@@ -62,11 +62,15 @@ FI-00014 University of Helsinki, Finland<br/>
     This is the third
     </li>
 </ul> -->
-<p align="justify">
+<!-- <p align="justify">
 I am driven by philosophically minded interdisciplinary collaboration. I have experience in computational models and data analysis of cognitive behavior. I use tools from complexity science and machine learning to explore how bodily and environmental dynamics play a fundamental role in cognition. My philosophical baggage is embodied cognition and ecological psychology. I am also interested in agency, consciousness, social cognition, human-machine interaction, and active inference.
+</p> -->
+
+<p style="opacity: 0.5; font-size: 20px; align: justify">
+Mechanotronic Engineer turned Cognitve Scientist.
 </p>
 
-<p> </p>
+<br>
 
 <!-- <span class="name"> Mario Zarco </span> -->
 
@@ -74,7 +78,7 @@ I am driven by philosophically minded interdisciplinary collaboration. I have ex
 
 <hr style="border:2px solid #0D47A1">
 
-<b> PhD in Computer Science </b> <time> 2018 – 2023 </time>
+<b> PhD in Computer Science </b> <time_> 2018 – 2023 </time_>
 
 * University of Auckland, School of Computer Science <location> Auckland, New Zelanad </location> 
 * Thesis: <b> Reaching for embodiment: challenges and opportunities for measuring and modeling cognitive behavior. </b>
@@ -84,7 +88,9 @@ I am driven by philosophically minded interdisciplinary collaboration. I have ex
 
 Areas of knowledge: <i> Computational Modeling, Behavioral Data Analysis, Embodied Cognition </i>
 
-<b> MSc in Computer Science </b> <time> 2015 – 2017 </time>
+<br_> </br_>
+
+<b> MSc in Computer Science </b> <time_> 2015 – 2017 </time_>
 
 * National Autonomous University of Mexico, Institute of Research in Applied Mathematics and Systems <location> Mexico City, Mexico </location>
 * Thesis: <b> Self-optimization in Hopfield neural networks. </b>
@@ -92,21 +98,22 @@ Areas of knowledge: <i> Computational Modeling, Behavioral Data Analysis, Embodi
 
 Areas of knowledge: <i> Complex Systems, Artificial Life </i>
 
+<br_> </br_>
 
-<b> BEng in Mechatronic Engineering </b> <time> 2007 – 2012 </time>
+<b> BEng in Mechatronic Engineering </b> <time_> 2007 – 2012 </time_>
 
 * National Autonomous University of Mexico, School of Engineering <location> Mexico City, Mexico </location>
 <!-- * Thesis: Evaluation of monocular control visual techniques for NAO humanoid robots locomotion. -->
 
 Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
-<p> </p>
+<br_> </br_>
 
 <h2_> Research Experience </h2_>
 
 <hr style="border:2px solid #0D47A1">
 
-<b> Research Assistant | CMND Lab<sup>1</sup> </b> <time> January 2024 – February 2024 </time>
+<b> Research Assistant | CMND Lab<sup>1</sup> </b> <time_> January 2024 – February 2024 </time_>
 
 * Developed algorithms to calculate hand-tracking metrics of arm-reaching behavior: movement onset time estimation, movement completion identification, trajectory curvature metrics, and changes of trajectory.
 * Developed algorithms to calculate eye-tracking metrics in tasks without oculomotor constraints: saccade estimation and fixation identification.
@@ -114,7 +121,7 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <sup>1</sup> <i>Cognitive, Manual, and Neural Dynamics Lab at the University of Auckland</i>
 
-<b> Internship | TransAxon </b> <time> October 2023 – December 2023 </time>
+<b> Internship | TransAxon </b> <time_> October 2023 – December 2023 </time_>
 
 * Mapped the scientific literature related to non-invasive neural data decoding using deep-learning models, identifying state-of-the-art algorithms, tasks, hardware, and datasets.
 * Collected information about the hardware used in the literature (EEG, MEG, and fMRI), including company, price range, specs, and types of applications.
