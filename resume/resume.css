@@ -133,3 +133,9 @@ location {
         /* Allow breaks before a new h3, overriding previous rules */
     }
 }
+
+.circle_photo{
+    border-radius: 150px;
+    /* width: 90px !important;
+    height: 90px !important; */
+  }

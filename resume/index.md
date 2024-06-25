@@ -43,8 +43,10 @@ FI-00014 University of Helsinki, Finland<br/>
     <div class="hr pb0"></div>
 </header> -->
 
+<link rel="stylesheet" type="text/css" href="resume.css">
+
 <header>
-    <img src="/assets/img/Mario_logo.jpg" class="avatar photo u-photo" width="120" height="120" loading="lazy" style="opacity: 0;"> 
+    <img class="circle_photo" src="/assets/img/Mario_logo.jpg" align="right" width="140" height="140" loading="lazy" style="opacity: 0;"> 
     <h1>Mario Zarco</h1>
     <!-- <p class="h3 faded subline title p-job-title">Researcher</p> -->
     <!-- <p_> Researcher </p_> -->
@@ -62,9 +64,6 @@ FI-00014 University of Helsinki, Finland<br/>
 <p align="justify">
 I am driven by philosophically minded interdisciplinary collaboration. I have experience in computational models and data analysis of cognitive behavior. I use tools from complexity science and machine learning to explore how bodily and environmental dynamics play a fundamental role in cognition. My philosophical baggage is embodied cognition and ecological psychology. I am also interested in agency, consciousness, social cognition, human-machine interaction, and active inference.
 </p>
-
-
-<link rel="stylesheet" type="text/css" href="resume.css">
 
 <!-- <span class="name"> Mario Zarco </span> -->
 
