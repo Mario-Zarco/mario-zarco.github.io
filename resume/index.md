@@ -59,6 +59,9 @@ FI-00014 University of Helsinki, Finland<br/>
     This is the third
     </li>
 </ul> -->
+<p align="justify">
+I am driven by philosophically minded interdisciplinary collaboration. I have experience in computational models and data analysis of cognitive behavior. I use tools from complexity science and machine learning to explore how bodily and environmental dynamics play a fundamental role in cognition. My philosophical baggage is embodied cognition and ecological psychology. I am also interested in agency, consciousness, social cognition, human-machine interaction, and active inference.
+</p>
 
 
 <link rel="stylesheet" type="text/css" href="resume.css">
@@ -69,20 +72,67 @@ FI-00014 University of Helsinki, Finland<br/>
 
 <hr style="border:2px solid #0D47A1">
 
-### University of Auckland | <location> Auckland, New Zelanad </location> <time> Oct 2018 – Oct 2023 </time>
+<b> PhD in Computer Science </b> <location> Auckland, New Zelanad </location> <time> 2018 – 2023 </time>
+
+* University of Auckland, School of Computer Science
+* Thesis: <b> Reaching for embodiment: challenges and opportunities for measuring and modeling cognitive behavior. </b>
+* Supervisors: 
+  * Main supervisor: Dr Matthew Egbert (School of Computer Science) 
+  * Co-supervisors:  Dr Christopher Erb (School of Psychology) and Dr Claire Postlethwaite (Department of Mathematics)
+
+Areas of knowledge: <i> Computational Modeling, Behavioral Data Analysis, Embodied Cognition </i>
+
+<b> MSc in Computer Science </b> <location> Mexico City, Mexico </location> <time> 2015 – 2017 </time>
+
+* National Autonomous University of Mexico, Institute of Research in Applied Mathematics and Systems
+* Thesis: <b> Self-optimization in Hopfield neural networks. </b>
+* Supervisor: Dr Tom Froese
+
+Areas of knowledge: <i> Complex Systems, Artificial Life </i>
 
 
-- Doctor of Philosophy in Computer Science, School of Computer Science
-- Thesis (Submitted in October 2023): Reaching for embodiment: challenges and opportunities for measuring and modeling cognitive behavior using the Simon task a testcase     
-- Main supervisor: Dr Matthew Egbert (School of Computer Science) Co-supervisors:  Dr Christopher Erb (School of Psychology), Dr Claire Postlethwaite (Department of Mathematics)
+<b> BEng in Mechatronic Engineering </b> <location> Mexico City, Mexico </location> <time> 2007 – 2012 </time>
+
+* National Autonomous University of Mexico, School of Engineering
+<!-- * Thesis: Evaluation of monocular control visual techniques for NAO humanoid robots locomotion. -->
+
+Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 
+<h2_> Research Experience </h2_>
 
+<hr style="border:2px solid #0D47A1">
 
- <!-- <div class="peach_bg">
-    <img class="image1" src="/assets/img/pavicon.png"
-      alt="face of preservex">
-    <div class="description">
-        Throughout my academic journey, I have collaborated with professionals from diverse fields, including psychology, mathematics, engineering, computer science, and neuroscience. In these collaborations, I have assisted them in gaining experience in new areas, questioned their underlying theoretical assumptions, and facilitated the acquisition of cross-domain knowledge that they have later used to explore new research avenues.
-    </div>
-  </div>PEACH BG CLOSE -->
+<b> Research Assistant | CMND Lab<sup>1</sup> </b> <location> Auckland, New Zelanad </location> <time> 2018 – 2023 </time>
+
+<sup>1</sup> This is a footnote
+
+<h2_> Teaching Experience </h2_>
+
+<hr style="border:2px solid #0D47A1">
+
+In construction...
+
+<h2_> Conference Activities </h2_>
+
+<hr style="border:2px solid #0D47A1">
+
+In construction...
+
+<h2_> Workshops </h2_>
+
+<hr style="border:2px solid #0D47A1">
+
+In construction...
+
+<h2_> Scholarships </h2_>
+
+<hr style="border:2px solid #0D47A1">
+
+In construction...
+
+<h2_> Languages </h2_>
+
+<hr style="border:2px solid #0D47A1">
+
+Bilingual proficiency in Spanish (Native) and English.
