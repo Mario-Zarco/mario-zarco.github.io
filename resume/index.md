@@ -100,6 +100,7 @@ Areas of knowledge: <i> Complex Systems, Artificial Life </i>
 
 Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
+<p> </p>
 
 <h2_> Research Experience </h2_>
 
@@ -107,8 +108,13 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <b> Research Assistant | CMND Lab<sup>1</sup> </b> <time> 2018 – 2023 </time>
 
+* Developed algorithms to calculate hand-tracking metrics of arm-reaching behavior: movement onset time estimation, movement completion identification, trajectory curvature metrics, and changes of trajectory.
+* Developed algorithms to calculate eye-tracking metrics in tasks without oculomotor constraints: saccade estimation and fixation identification.
+* Programmed an automatic data processing pipeline for datasets of different cognition tasks. 
+
 <sup>1</sup> Cognitive, Manual, and Neural Dynamics Lab at the University of Auckland
 
+<p> </p>
 
 <h2_> Teaching Experience </h2_>
 
@@ -116,11 +122,15 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 In construction...
 
+<p> </p>
+
 <h2_> Conference Activities </h2_>
 
 <hr style="border:2px solid #0D47A1">
 
 In construction...
+
+<p> </p>
 
 <h2_> Workshops </h2_>
 
@@ -128,11 +138,15 @@ In construction...
 
 In construction...
 
+<p> </p>
+
 <h2_> Scholarships </h2_>
 
 <hr style="border:2px solid #0D47A1">
 
 In construction...
+
+<p> </p>
 
 <h2_> Languages </h2_>
 
