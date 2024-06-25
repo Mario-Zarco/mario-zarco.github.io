@@ -38,9 +38,32 @@ FI-00014 University of Helsinki, Finland<br/>
 `1998-2002`
 **B.S., Geology (Physics minor)**, *University of Michigan*, Ann Arbor, MI, USA. -->
 
+<!-- <header>
+    <h1 class="page-title"> Resume </h1>
+    <div class="hr pb0"></div>
+</header> -->
+
+<header>
+    <img src="/assets/img/Mario_logo.jpg" class="avatar photo u-photo" width="120" height="120" loading="lazy" style="opacity: 0;"> 
+    <h1>Mario Zarco</h1>
+    <!-- <p class="h3 faded subline title p-job-title">Researcher</p> -->
+    <!-- <p_> Researcher </p_> -->
+    <div class="hr pb0"></div>
+</header>
+<!-- <ul>
+    <li>This is the first</li>
+    <li>
+    This is the second
+    </li>
+    <li>
+    This is the third
+    </li>
+</ul> -->
+
+
 <link rel="stylesheet" type="text/css" href="resume.css">
 
-<span class="name"> Mario Zarco </span>
+<!-- <span class="name"> Mario Zarco </span> -->
 
 <h2_> Education </h2_>
 
@@ -48,7 +71,12 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ### University of Auckland | <location> Auckland, New Zelanad </location> <time> Oct 2018 – Oct 2023 </time>
 
-- PhD in Computer Science
+
+- Doctor of Philosophy in Computer Science, School of Computer Science
+- Thesis (Submitted in October 2023): Reaching for embodiment: challenges and opportunities for measuring and modeling cognitive behavior using the Simon task a testcase     
+- Main supervisor: Dr Matthew Egbert (School of Computer Science) Co-supervisors:  Dr Christopher Erb (School of Psychology), Dr Claire Postlethwaite (Department of Mathematics)
+
+
 
 
  <!-- <div class="peach_bg">

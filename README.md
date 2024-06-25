@@ -1,3 +1,5 @@
+I have migrated my information to this new academic website.
+
 # Hydejack Starter Kit
 
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).

@@ -11,11 +11,11 @@ author1:
     It's me, Mario.
   # This photo will be used in the about section
   picture:
-    path:            /assets/img/Mario_logo.jpg
+    path:            /assets/img/Mario_logo_3.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/Mario_logo.jpg
-      2x:            /assets/img/Mario_logo.jpg
+      1x:            /assets/img/Mario_logo_3.jpg
+      2x:            /assets/img/Mario_logo_3.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
