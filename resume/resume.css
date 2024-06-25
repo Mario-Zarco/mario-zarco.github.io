@@ -97,8 +97,9 @@ time {
 }
 
 location {
-    /*position: absolute;
-    left: 50%;*/
+    /* position: absolute;
+    left: 50%; */
+    float: right;
     font-weight: normal;
     opacity: .5;
 }

@@ -74,9 +74,9 @@ I am driven by philosophically minded interdisciplinary collaboration. I have ex
 
 <hr style="border:2px solid #0D47A1">
 
-<b> PhD in Computer Science </b> <location> Auckland, New Zelanad </location> <time> 2018 – 2023 </time>
+<b> PhD in Computer Science </b> <time> 2018 – 2023 </time>
 
-* University of Auckland, School of Computer Science
+* University of Auckland, School of Computer Science <location> Auckland, New Zelanad </location> 
 * Thesis: <b> Reaching for embodiment: challenges and opportunities for measuring and modeling cognitive behavior. </b>
 * Supervisors: 
   * Main supervisor: Dr Matthew Egbert (School of Computer Science) 
@@ -84,18 +84,18 @@ I am driven by philosophically minded interdisciplinary collaboration. I have ex
 
 Areas of knowledge: <i> Computational Modeling, Behavioral Data Analysis, Embodied Cognition </i>
 
-<b> MSc in Computer Science </b> <location> Mexico City, Mexico </location> <time> 2015 – 2017 </time>
+<b> MSc in Computer Science </b> <time> 2015 – 2017 </time>
 
-* National Autonomous University of Mexico, Institute of Research in Applied Mathematics and Systems
+* National Autonomous University of Mexico, Institute of Research in Applied Mathematics and Systems <location> Mexico City, Mexico </location>
 * Thesis: <b> Self-optimization in Hopfield neural networks. </b>
 * Supervisor: Dr Tom Froese
 
 Areas of knowledge: <i> Complex Systems, Artificial Life </i>
 
 
-<b> BEng in Mechatronic Engineering </b> <location> Mexico City, Mexico </location> <time> 2007 – 2012 </time>
+<b> BEng in Mechatronic Engineering </b> <time> 2007 – 2012 </time>
 
-* National Autonomous University of Mexico, School of Engineering
+* National Autonomous University of Mexico, School of Engineering <location> Mexico City, Mexico </location>
 <!-- * Thesis: Evaluation of monocular control visual techniques for NAO humanoid robots locomotion. -->
 
 Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
@@ -105,7 +105,7 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <hr style="border:2px solid #0D47A1">
 
-<b> Research Assistant | CMND Lab<sup>1</sup> </b> <location> Auckland, New Zelanad </location> <time> 2018 – 2023 </time>
+<b> Research Assistant | CMND Lab<sup>1</sup> </b> <time> 2018 – 2023 </time>
 
 <sup>1</sup> Cognitive, Manual, and Neural Dynamics Lab at the University of Auckland
 
