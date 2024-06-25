@@ -41,12 +41,13 @@ FI-00014 University of Helsinki, Finland<br/>
 <!-- <header>
     <h1 class="page-title"> Resume </h1>
     <div class="hr pb0"></div>
+    loading="lazy" style="opacity: 0;
 </header> -->
 
 <link rel="stylesheet" type="text/css" href="resume.css">
 
 <header>
-    <img class="circle_photo" src="/assets/img/Mario_logo.jpg" align="right" width="140" height="140" loading="lazy" style="opacity: 0;"> 
+    <img class="circle_photo" src="/assets/img/Mario_logo.jpg" align="right" width="140" height="140"> 
     <h1>Mario Zarco</h1>
     <!-- <p class="h3 faded subline title p-job-title">Researcher</p> -->
     <!-- <p_> Researcher </p_> -->
@@ -106,7 +107,8 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <b> Research Assistant | CMND Lab<sup>1</sup> </b> <location> Auckland, New Zelanad </location> <time> 2018 – 2023 </time>
 
-<sup>1</sup> This is a footnote
+<sup>1</sup> Cognitive, Manual, and Neural Dynamics Lab at the University of Auckland
+
 
 <h2_> Teaching Experience </h2_>
 
