@@ -106,13 +106,20 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <hr style="border:2px solid #0D47A1">
 
-<b> Research Assistant | CMND Lab<sup>1</sup> </b> <time> 2018 – 2023 </time>
+<b> Research Assistant | CMND Lab<sup>1</sup> </b> <time> January 2024 – February 2024 </time>
 
 * Developed algorithms to calculate hand-tracking metrics of arm-reaching behavior: movement onset time estimation, movement completion identification, trajectory curvature metrics, and changes of trajectory.
 * Developed algorithms to calculate eye-tracking metrics in tasks without oculomotor constraints: saccade estimation and fixation identification.
 * Programmed an automatic data processing pipeline for datasets of different cognition tasks. 
 
-<sup>1</sup> Cognitive, Manual, and Neural Dynamics Lab at the University of Auckland
+<sup>1</sup> <i>Cognitive, Manual, and Neural Dynamics Lab at the University of Auckland</i>
+
+<b> Internship | TransAxon </b> <time> October 2023 – December 2023 </time>
+
+* Mapped the scientific literature related to non-invasive neural data decoding using deep-learning models, identifying state-of-the-art algorithms, tasks, hardware, and datasets.
+* Collected information about the hardware used in the literature (EEG, MEG, and fMRI), including company, price range, specs, and types of applications.
+* Identified opportunities to contribute to the current state of non-invasive brain decoding by leveraging publicly available models and datasets.
+* Proposed an idea, supported by evidence of technical feasibility, for the company to pivot towards working on a commercial non-invasive BCI application.
 
 <p> </p>
 
