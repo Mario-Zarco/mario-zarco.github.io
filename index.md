@@ -47,3 +47,9 @@ hide_description: true
     <span>project</span>  
   </a>   -->
 </div>
+
+<p> </p>
+
+<p style="font-size:small; text-align: center">
+All the photos in this website were taken by <a href="https://suzannahmaree.co.nz/">Suzannah Maree.</a>
+</p>
