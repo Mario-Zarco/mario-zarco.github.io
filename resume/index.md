@@ -65,6 +65,8 @@ FI-00014 University of Helsinki, Finland<br/>
 I am driven by philosophically minded interdisciplinary collaboration. I have experience in computational models and data analysis of cognitive behavior. I use tools from complexity science and machine learning to explore how bodily and environmental dynamics play a fundamental role in cognition. My philosophical baggage is embodied cognition and ecological psychology. I am also interested in agency, consciousness, social cognition, human-machine interaction, and active inference.
 </p>
 
+<p> </p>
+
 <!-- <span class="name"> Mario Zarco </span> -->
 
 <h2_> Education </h2_>
