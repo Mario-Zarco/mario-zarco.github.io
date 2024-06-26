@@ -11,16 +11,23 @@ hide_description: true
 {% comment %} 
 I am Mario, the grandson of Juana, and the son of Begonia and Esau. 
 
-I am first-generation, POC scholar trying to become a researcher. 
+I am first-generation, POC scholar trying to become a researcher.
+
+I am POC scholar raised in the hoods of Mexico City. I have been living in Tāmaki Makaurau, Aotearoa for almost 6 years.
+
+I am a mechatronic engineering by profession turned cognitive scientist. 
+
+I obtained my bachelor's and master's degree at the National Autonomous University of Mexico and obtained my PhD at the University of Auckland.
+
+My name is Mario, the grandson of Juana Romero and the son of Begonia Lopez and Esaú Zarco. 
 {% endcomment %}
 
-My name is Mario. I am the grandson of Juana, and the son of Begonia and Esau. 
 
-I am POC scholar who was raised in the barrio. 
 
-I am from Mexico, but I have been based in Tāmaki Makaurau, Aotearoa for almost 6 years.
+I am a scholar of color raised in the hoods of Mexico City. I have been living in Tāmaki Makaurau, Aotearoa, for almost six years. At the moment, I am looking for a postdoctoral position.
 
-I obtained my PhD at the University of Auckland 
+I am a mechatronic engineer by profession turned cognitive scientist. I earned my bachelor's and master's degrees from the National Autonomous University of Mexico and completed my PhD at the University of Auckland.
 
-I am interested in a wide range of topics. 
+
+
 

@@ -67,7 +67,7 @@ I am driven by philosophically minded interdisciplinary collaboration. I have ex
 </p> -->
 
 <p style="opacity: 0.5; font-size: 20px; align: justify">
-Mechanotronic Engineer turned Cognitve Scientist.
+Interdisciplinary researcher, computational modeller, data analyst, doder
 </p>
 
 <br>
