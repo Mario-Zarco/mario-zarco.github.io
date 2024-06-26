@@ -24,8 +24,8 @@ title:                 Mario Zarco
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-# description:           >
-#   It's a me, Mario.
+description:           >
+  My academic website
 
 # A shorter description for the sidebar.
 tagline:               Embodied Cognitive Scientist
