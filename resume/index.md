@@ -113,7 +113,8 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <hr style="border:2px solid #0D47A1">
 
-<b> Research Assistant | CMND Lab<sup><a href="#fn1" id="ref1">1</a></sup> </b> <time_> January 2024 – February 2024 </time_>
+<b> Research Assistant </b> <time_> January 2024 – February 2024 </time_>
+<br> <i>CMND Lab</i><sup><a href="#fn1" id="ref1">1</a></sup>
 
 * Developed algorithms to calculate hand-tracking metrics of arm-reaching behavior: movement onset time estimation, movement completion identification, trajectory curvature metrics, and changes of trajectory.
 * Developed algorithms to calculate eye-tracking metrics in tasks without oculomotor constraints: saccade estimation and fixation identification.
