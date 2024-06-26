@@ -67,7 +67,7 @@ I am driven by philosophically minded interdisciplinary collaboration. I have ex
 </p> -->
 
 <p style="opacity: 0.5; font-size: 20px; align: justify">
-Interdisciplinary researcher, computational modeller, data analyst, doder
+Interdisciplinary researcher, computational modeller, data analyst, coder
 </p>
 
 <br>
@@ -192,9 +192,33 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <hr style="border:2px solid #0D47A1">
 
-<b> The 2024 Conference on Artificial Life  </b> <time_> 2024 </time_>
+<b> Conference on Artificial Life  </b> <time_> 2024 </time_>
 
 * Reviewer (PC member)
+
+<br_> </br_>
+
+<b> Conference on Artificial Life  </b> <time_> 2022 </time_>
+
+* Reviewer (PC member)
+
+<br_> </br_>
+
+<b> Conference on Artificial Life  </b> <time_> 2019 </time_>
+
+* Oral Presentation: Different Forms of Random Motor Activity Scaffold the Formation of Different Habits in a Simulated Robot
+
+<br_> </br_>
+
+<b> Conference on Complex Systems  </b> <time_> 2017 </time_>
+
+* Oral Presentation: A Review and Critique of Gabora’s Models of Cultural Evolution
+
+<br_> </br_>
+
+<b> Conference on Complex Systems  </b> <time_> 2017 </time_>
+
+* Poster: Self-modeling in continuous-time Hopfield neural networks 
 
 <br_> </br_>
 
@@ -202,9 +226,21 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <hr style="border:2px solid #0D47A1">
 
-<b> Emergent Interaction: Complexity, Dynamics, and Enaction in HCI	  </b> <time_> May 2021 </time_>
+<b> Emergent Interaction: Complexity, Dynamics, and Enaction in HCI </b> <time_> May 2021 </time_>
 
 * Virtual Attendee
+
+<br_> </br_>
+
+<b> Enaction and Ecological Psychology: overlaps, tensions and complementarities </b> <time_> July 2019 </time_>
+
+* Attendee
+
+<br_> </br_>
+
+<b> Evolution and the embodied mind: the biological roots of 4E cognition </b> <time_> July 2019 </time_>
+
+* Attendee
 
 <br_> </br_>
 
