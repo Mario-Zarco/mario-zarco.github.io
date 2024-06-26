@@ -113,13 +113,13 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <hr style="border:2px solid #0D47A1">
 
-<b> Research Assistant | CMND Lab<sup>1</sup> </b> <time_> January 2024 – February 2024 </time_>
+<b> Research Assistant | CMND Lab<sup><a href="#fn1" id="ref1">1</a></sup> </b> <time_> January 2024 – February 2024 </time_>
 
 * Developed algorithms to calculate hand-tracking metrics of arm-reaching behavior: movement onset time estimation, movement completion identification, trajectory curvature metrics, and changes of trajectory.
 * Developed algorithms to calculate eye-tracking metrics in tasks without oculomotor constraints: saccade estimation and fixation identification.
 * Programmed an automatic data processing pipeline for datasets of different cognition tasks. 
 
-<sup>1</sup> <i>Cognitive, Manual, and Neural Dynamics Lab at the University of Auckland</i>
+<br_> </br_>
 
 <b> Internship | TransAxon </b> <time_> October 2023 – December 2023 </time_>
 
@@ -128,15 +128,55 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 * Identified opportunities to contribute to the current state of non-invasive brain decoding by leveraging publicly available models and datasets.
 * Proposed an idea, supported by evidence of technical feasibility, for the company to pivot towards working on a commercial non-invasive BCI application.
 
-<p> </p>
+<br_> </br_>
+
+<b> Research Assistant | CMND Lab<sup><a href="#fn1" id="ref1">1</a></sup> </b> <time_> July 2022 – December 2022 </time_>
+
+* Programmed a visualization tool for hand-tracking and eye-tracking data collected in tasks in virtual reality programmed using Unity 3D.
+* Researched the most suitable methods to preprocess the data collected by the CMND Lab.
+* Programmed a data processing pipeline to calculate temporal and spatial metrics of hand-tracking data.
+
+<br_> </br_>
+
+<b> Research Assistant | CMND Lab<sup><a href="#fn1" id="ref1">1</a></sup> </b> <time_> May 2021 – December 2021 </time_>
+
+* Programmed cognitive tasks in virtual reality using Unity 3D and implemented a session-block-trial structure for hand- and eye-tracking data collection.
+* Programmed a pipeline to verify and format the data collected in tasks in virtual reality.
+
+<br_> </br_>
+
+<b> Research Assistant | CMND Lab<sup><a href="#fn1" id="ref1">1</a></sup> </b> <time_> July 2020 – December 2020 </time_>
+
+* Programmed cognitive tasks in virtual reality using Unity 3D and implemented a session-block-trial structure for hand- and eye-tracking data collection.
+
+<b> Research Internship | Centre of Research in Mathematics (CIMAT) </b> <time_> September 2014 – March 2015 </time_>
+
+* Implemented different monocular visual control techniques for the locomotion of the humanoid robot NAO in a robotics simulation software.
+* Implemented a module for real-time plotting of sensor values in a robotics simulation software.
+
+<br_> </br_>
 
 <h2_> Teaching Experience </h2_>
 
 <hr style="border:2px solid #0D47A1">
 
-In construction...
+<b> Teaching Assistant | University of Auckland </b> <time_> August 2020 – December 2020 </time_>
 
-<p> </p>
+* Graded assignments of students enrolled in the course of Artificial Intelligence
+
+<br_> </br_>
+
+<b> Graduate Teaching Assistant | University of Auckland </b> <time_> March 2020 – June 2020 </time_>
+
+* Tutored students enrolled in the course of Principles of Programming.
+
+<br_> </br_>
+
+<b> Tutor | National Autonomous University of Mexico	 </b> <time_> July 2018 </time_>
+
+* Tutored students enrolled in the course Genetic Algorithms: Theory and Applications in Mechatronics Engineering.
+
+<br_> </br_>
 
 <h2_> Conference Activities </h2_>
 
@@ -144,7 +184,7 @@ In construction...
 
 In construction...
 
-<p> </p>
+<br_> </br_>
 
 <h2_> Workshops </h2_>
 
@@ -152,7 +192,7 @@ In construction...
 
 In construction...
 
-<p> </p>
+<br_> </br_>
 
 <h2_> Scholarships </h2_>
 
@@ -160,10 +200,16 @@ In construction...
 
 In construction...
 
-<p> </p>
+<br_> </br_>
 
 <h2_> Languages </h2_>
 
 <hr style="border:2px solid #0D47A1">
 
 Bilingual proficiency in Spanish (Native) and English.
+
+<br_> </br_>
+
+<div class="hr pb0"></div>
+
+<sup id="fn1">1. <a href="https://www.cmndlab.com/" target="_blank">Cognitive, Manual, and Neural Dynamics Lab</a> <a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
