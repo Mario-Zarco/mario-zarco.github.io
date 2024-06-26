@@ -122,7 +122,8 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <br_> </br_>
 
-<b> Internship | TransAxon </b> <time_> October 2023 – December 2023 </time_>
+<b> Internship </b> <time_> October 2023 – December 2023 </time_>
+<br> <i>TransAxon</i>
 
 * Mapped the scientific literature related to non-invasive neural data decoding using deep-learning models, identifying state-of-the-art algorithms, tasks, hardware, and datasets.
 * Collected information about the hardware used in the literature (EEG, MEG, and fMRI), including company, price range, specs, and types of applications.
@@ -131,7 +132,8 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <br_> </br_>
 
-<b> Research Assistant | CMND Lab<sup><a href="#fn1" id="ref1">1</a></sup> </b> <time_> July 2022 – December 2022 </time_>
+<b> Research Assistant </b> <time_> July 2022 – December 2022 </time_>
+<br> <i>CMND Lab</i><sup><a href="#fn1" id="ref1">1</a></sup>
 
 * Programmed a visualization tool for hand-tracking and eye-tracking data collected in tasks in virtual reality programmed using Unity 3D.
 * Researched the most suitable methods to preprocess the data collected by the CMND Lab.
@@ -139,18 +141,21 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <br_> </br_>
 
-<b> Research Assistant | CMND Lab<sup><a href="#fn1" id="ref1">1</a></sup> </b> <time_> May 2021 – December 2021 </time_>
+<b> Research Assistant </b> <time_> May 2021 – December 2021 </time_>
+<br> <i>CMND Lab</i><sup><a href="#fn1" id="ref1">1</a></sup>
 
 * Programmed cognitive tasks in virtual reality using Unity 3D and implemented a session-block-trial structure for hand- and eye-tracking data collection.
 * Programmed a pipeline to verify and format the data collected in tasks in virtual reality.
 
 <br_> </br_>
 
-<b> Research Assistant | CMND Lab<sup><a href="#fn1" id="ref1">1</a></sup> </b> <time_> July 2020 – December 2020 </time_>
+<b> Research Assistant </b> <time_> July 2020 – December 2020 </time_>
+<br> <i>CMND Lab</i><sup><a href="#fn1" id="ref1">1</a></sup>
 
 * Programmed cognitive tasks in virtual reality using Unity 3D and implemented a session-block-trial structure for hand- and eye-tracking data collection.
 
-<b> Research Internship | Centre of Research in Mathematics (CIMAT) </b> <time_> September 2014 – March 2015 </time_>
+<b> Research Internship </b> <time_> September 2014 – March 2015 </time_>
+<br> <i>Centre of Research in Mathematics (CIMAT)</i>
 
 * Implemented different monocular visual control techniques for the locomotion of the humanoid robot NAO in a robotics simulation software.
 * Implemented a module for real-time plotting of sensor values in a robotics simulation software.
@@ -161,19 +166,23 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <hr style="border:2px solid #0D47A1">
 
-<b> Teaching Assistant | University of Auckland </b> <time_> August 2020 – December 2020 </time_>
+<b> Teaching Assistant </b> <time_> August 2020 – December 2020 </time_>
+<br> <i>University of Auckland</i>
+
 
 * Graded assignments of students enrolled in the course of Artificial Intelligence
 
 <br_> </br_>
 
-<b> Graduate Teaching Assistant | University of Auckland </b> <time_> March 2020 – June 2020 </time_>
+<b> Graduate Teaching Assistant </b> <time_> March 2020 – June 2020 </time_>
+<br> <i>University of Auckland</i>
 
 * Tutored students enrolled in the course of Principles of Programming.
 
 <br_> </br_>
 
-<b> Tutor | National Autonomous University of Mexico	 </b> <time_> July 2018 </time_>
+<b> Tutor </b> <time_> July 2018 </time_>
+<br> <i>National Autonomous University of Mexico</i>
 
 * Tutored students enrolled in the course Genetic Algorithms: Theory and Applications in Mechatronics Engineering.
 
@@ -183,7 +192,9 @@ Areas of knowledge: <i> Cybernetics, Modern Control Theory </i>
 
 <hr style="border:2px solid #0D47A1">
 
-In construction...
+<b> The 2024 Conference on Artificial Life  </b> <time_> 2024 </time_>
+
+* Reviewer (PC member)
 
 <br_> </br_>
 
@@ -191,15 +202,17 @@ In construction...
 
 <hr style="border:2px solid #0D47A1">
 
-In construction...
+<b> Emergent Interaction: Complexity, Dynamics, and Enaction in HCI	  </b> <time_> May 2021 </time_>
+
+* Virtual Attendee
 
 <br_> </br_>
 
-<h2_> Scholarships </h2_>
+<!-- <h2_> Scholarships </h2_>
 
 <hr style="border:2px solid #0D47A1">
 
-In construction...
+In construction... -->
 
 <br_> </br_>
 
