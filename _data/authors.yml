@@ -3,12 +3,16 @@
 # Change `author1` to your shortname.
 author1:
   name:              Mario Zarco
-  email:             <mail@domain.tld>
+  email:             mario.zarco.al@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    It's me, Mario.
+    I am driven by philosophically minded interdisciplinary collaboration. 
+    My experience includes computational models and data analysis of cognitive behavior. 
+    I use tools from complexity science and machine learning to explore how bodily and environmental dynamics play a fundamental role in cognition. 
+    My philosophical baggage is embodied cognition, enactivism, and ecological psychology. 
+  # I am also interested in agency, consciousness, social cognition, human-machine interaction, and active inference.
   # This photo will be used in the about section
   picture:
     path:            /assets/img/Mario_logo_3.jpg
@@ -23,7 +27,7 @@ author1:
   social:
     twitter:         ZarcoMarioAL
     github:          Mario-Zarco
-    # email:           <mail@domain.tld>
+    email:           zarco.mario.al@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>

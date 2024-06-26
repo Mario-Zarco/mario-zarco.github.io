@@ -20,8 +20,8 @@ hide_description: true
 
 <!--author-->
 ---
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 
 <h2 id="sample-markdown">Social Media</h2>
@@ -43,7 +43,7 @@ hide_description: true
   </a> 
 
   <a href="https://www.linkedin.com/in/mario-zarco-240007186/" target="_blank">  
-    <img class="square_s" src="/assets/img/social/linkedin_color.png" align="center" >
+    <img class="square_s" src="/assets/img/social/linkedIn_color.png" align="center" >
     <span>LinkedIn</span>  
   </a> 
 
