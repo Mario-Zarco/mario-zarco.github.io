@@ -2,8 +2,8 @@
 layout: about
 # image: /assets/img/me.jpg
 # title: Hello world!
-description: >
-  THIS IS A TEST 
+# description: >
+#   THIS IS A TEST 
 # hide_description: true
 # redirect_from:
 #   -
