@@ -26,26 +26,37 @@ hide_description: true
 
 <h2 id="sample-markdown">Social Media</h2>
 <div class="grid_4">
+
+  <a href="https://x.com/ZarcoMarioAL" target="_blank">  
+    <img class="square_s" src="/assets/img/social/twitter_color.png" align="center" >
+    <span>Twitter</span>  
+  </a>
+
+  <a href="https://github.com/Mario-Zarco" target="_blank">  
+    <img class="square_s" src="/assets/img/social/github_color.png" align="center" >
+    <span>Github</span>  
+  </a> 
+
+  <a href="https://scholar.google.com/citations?user=8gF6M3wAAAAJ&hl=en&oi=ao" target="_blank">  
+    <img class="square_s" src="/assets/img/social/googleScholar_color.png" align="center" >
+    <span>Scholar</span>  
+  </a> 
+
+  <a href="https://www.linkedin.com/in/mario-zarco-240007186/" target="_blank">  
+    <img class="square_s" src="/assets/img/social/linkedin_color.png" align="center" >
+    <span>LinkedIn</span>  
+  </a> 
+
   <a href="https://bsky.app/profile/zarcomario.bsky.social" target="_blank">  
     <img class="square_s" src="/assets/img/social/bluesky_color.png" align="center" >
     <span>Bluesky</span>  
   </a> 
-<!--   <a href="https://gangjiyeon.github.io/cs/">  
-    <img class="circle_s" src="/assets/img/bgbg.jpg" align="center" >
-    <span>cs</span>  
-  </a>
-  <a href="https://gangjiyeon.github.io/ds/">  
-    <img class="circle_s" src="/assets/img/bgbg.jpg" align="center" >
-    <span>ds</span>  
+
+  <a href="https://mastodon.social/explore" target="_blank">  
+    <img class="square_s" src="/assets/img/social/mastodon_color.png" align="center" >
+    <span>Mastodon</span>  
   </a> 
-  <a href="https://gangjiyeon.github.io/daily/">  
-    <img class="circle_s" src="/assets/img/bgbg.jpg" align="center" >
-    <span>daily log</span>  
-  </a> 
-  <a href="https://gangjiyeon.github.io/project/">  
-    <img class="circle_s" src="/assets/img/bgbg.jpg" align="center" >
-    <span>project</span>  
-  </a>   -->
+
 </div>
 
 <p> </p>
