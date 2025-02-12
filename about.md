@@ -6,7 +6,7 @@ description: >
 hide_description: true
 ---
 
-# Hola! / Hello! / Kia Ora! 
+# Hola / Hello / Kia Ora / こんにちは
 
 {% comment %} 
 I am Mario, the grandson of Juana, and the son of Begonia and Esau. 
