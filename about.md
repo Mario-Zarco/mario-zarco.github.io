@@ -24,12 +24,12 @@ My name is Mario, the grandson of Juana Romero and the son of Begonia Lopez and 
 
 <p align='justify'>
 
-I am a scholar of color raised in the hoods of Mexico City. I have been living in Tāmaki Makaurau, Aotearoa, for almost six years. At the moment, I am looking for a postdoctoral position.
+I am a scholar of color raised in the hoods of Mexico City. I lived in Tāmaki Makaurau, Aotearoa, for six years and am now based in Sapporo, Japan.
 
 <br>
 <br>
 
-I am a mechatronic engineer by profession turned cognitive scientist. I earned my bachelor's and master's degrees from the National Autonomous University of Mexico and completed my PhD at the University of Auckland.
+I am a mechatronic engineer by profession turned cognitive scientist. I earned my bachelor's and master's degrees from the National Autonomous University of Mexico and completed my PhD at the University of Auckland. I am now working as a postdoctoral researcher at the Hokkaido University Center for Human Nature, Artificial Intelligence, and Neuroscience.
 
 </p>
 
