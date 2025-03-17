@@ -29,7 +29,9 @@ I am a scholar of color raised in the hoods of Mexico City. I lived in Tāmaki M
 <br>
 <br>
 
-I am a mechatronic engineer by profession turned cognitive scientist. I earned my bachelor's and master's degrees from the National Autonomous University of Mexico and completed my PhD at the University of Auckland. I am now working as a postdoctoral researcher at the Hokkaido University Center for Human Nature, Artificial Intelligence, and Neuroscience.
+I earned my bachelor's and master's degrees from the National Autonomous University of Mexico and completed my PhD at the University of Auckland. I am now working as a postdoctoral researcher at the Hokkaido University Center for Human Nature, Artificial Intelligence, and Neuroscience.
+
+I am driven by philosophically minded interdisciplinary collaboration. My experience includes building computational models and analysing data of cognitive behavior. 
 
 </p>
 
